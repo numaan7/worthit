@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/worthit/static/css/main.e6c13ad2.css",
-    "main.js": "/worthit/static/js/main.3400e9e5.js",
+    "main.js": "/worthit/static/js/main.fe39b67e.js",
     "static/js/453.2f3d5e82.chunk.js": "/worthit/static/js/453.2f3d5e82.chunk.js",
     "index.html": "/worthit/index.html",
     "main.e6c13ad2.css.map": "/worthit/static/css/main.e6c13ad2.css.map",
-    "main.3400e9e5.js.map": "/worthit/static/js/main.3400e9e5.js.map",
+    "main.fe39b67e.js.map": "/worthit/static/js/main.fe39b67e.js.map",
     "453.2f3d5e82.chunk.js.map": "/worthit/static/js/453.2f3d5e82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3400e9e5.js"
+    "static/js/main.fe39b67e.js"
   ]
 }
